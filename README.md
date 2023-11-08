@@ -37,6 +37,8 @@ The regression model yielded the following insights:
     Significant predictors include age, BMI, smoking status, and the number of children.
     Smoking has the highest coefficient, indicating its strong influence on medical charges.
 
+![alt text](Untitled.png)
+
 Conclusions
 
 The study concludes that while region and gender have a minimal impact on medical expenses, factors such as age, BMI, the number of children, and especially smoking status are significant drivers of medical costs.
